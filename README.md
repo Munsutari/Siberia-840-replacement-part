@@ -16,6 +16,7 @@
 <img src="/Images/Back_piece.png" style=" width:400px ; height:400px ">
 <img src="/Images/Assembled.png" style=" width:400px ; height:400px ">
 </div>
+<p align="left">Same part for both sides*</p>
 
 ---
 ## Printing
