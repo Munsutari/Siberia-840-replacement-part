@@ -4,7 +4,7 @@
 <a href="https://github.com/Munsutari/Siberia-840-replacement-part/issues"><img src="https://img.shields.io/badge/contributions-Go Ahead-brightgreen.svg" alt="Contributions Welcome"></a>
 <a href="https://github.com/Munsutari/Siberia-840-replacement-part/releases/latest"><img src="https://img.shields.io/github/downloads/Munsutari/Siberia-840-replacement-part/total.svg" alt="Github All Releases"></a></p>
 
-<p align="center">A replacement part for the steelseries siberia 840 ear piece holder famously that breaks all the time.</p>
+<p align="center">A replacement part for the steelseries siberia 840 ear piece holder that famously breaks all the time.</p>
 
 ## Model
 
